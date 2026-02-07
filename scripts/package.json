@@ -1,0 +1,13 @@
+{
+  "name": "candidate-generator",
+  "version": "1.0.0",
+  "description": "Script to generate candidate data",
+  "main": "generateCandidates.js",
+  "scripts": {
+    "generate": "node generateCandidates.js"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.3.1",
+    "@tabler/icons-react": "^3.36.1"
+  }
+}
