@@ -241,16 +241,8 @@ POST /api/candidates/:id/share - Share candidate profile
 
 This project is created for evaluation purposes.
 
-## 👤 Author
 
-Created for G CP candidate selection assignment.
 
 ---
 
-**Deadline**: [Insert date]
 
-**Submission Includes**:
-- ✅ GitHub Repository (code + SQL schema)
-- ✅ AI Prompts (Markdown documentation)
-- ✅ Dashboard Screenshots/Video
-- ✅ README with setup instructions
